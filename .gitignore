@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.session
+*.session-*
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.pem
+*.key
+.venv/
+venv/
+coverage/
+.pytest_cache/
